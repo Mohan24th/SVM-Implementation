@@ -1,0 +1,18 @@
+SVM
+SVM is mainly used for complex data separation
+SVM is used for classification and regression problems
+Example: Spam vs not spam
+
+problem with logistic regression:
+when data is linearly separable 
+data is complex
+the classes we predict overlap
+decision boundary is not correct 
+
+
+
+that is where SVM becomes powerful
+
+
+parameter: are dependent on the data and are learned during the training process
+hyperparameters: are the input parameters that are not at all dependednt on the data 
